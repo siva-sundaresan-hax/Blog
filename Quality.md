@@ -20,6 +20,7 @@ Post a midnight hotfix ...
 The QE walks into work, sleep-deprived, over-caffeinated, emotionally drained from the happenings of last night. The mood is one of relief, where everyone recalls the events of last night. The QE gets a notification on his/her mobile. 5 mins to daily Scrum…
 
 ### Why wasn't the Prod issue caught in testing?
+![Who?](https://miro.medium.com/max/700/0*PXDYGmE91VMbt214)
 A classical question is posted to QEs time and again when a critical bug is found in Production! There might be multiple reasons for this, lack of QE understanding of the scope of feature, inadequate detail in specs/stories, lack of defensive code(logging, memory dereference, etc.) from the development team, the exact scenario that caused the bug is a previously discussed, yet dismissed as an unlikely edge case by the team. So who do you think is responsible for this issue???
 
 > The answer is… does it matter?
@@ -76,7 +77,7 @@ So…
 
 The next time you ask the question who is responsible for the production bug, the answer is **YOU!**
 
-![It's You](https://images.app.goo.gl/4mVVHgnQNbSKVrji8)
+![It's You](https://images.app.goo.gl/1pm1JFastumy2NX68)
 
 <I'd like to thank [Bruce Hartman](https://github.com/BruceIanHartman) for the idea behind the Uncle Sam pic!>
 
