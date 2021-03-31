@@ -77,7 +77,7 @@ So…
 
 The next time you ask the question who is responsible for the production bug, the answer is **YOU!**
 
-![It's You](https://images.app.goo.gl/1pm1JFastumy2NX68)
+[It's You](https://images.app.goo.gl/1pm1JFastumy2NX68)
 
 <I'd like to thank [Bruce Hartman](https://github.com/BruceIanHartman) for the idea behind the Uncle Sam pic!>
 
