@@ -30,7 +30,9 @@ Security testing(static code analyzers, port scanning, Pen testing etc.) of the 
 Chaos testing of the infrastructure to explore inconsistent states in the system.
 Now onto the most important question of this post, 
 > Why are Russians, the best in the world, when it comes to developing Distributed systems? 
+
 Because …
+
 > They are from Russia. Naturally, they know a thing or two about Distribution ;) #SovietUnion
 
 <Plug: If you like clean, tech related humor, do checkout #SivaStandupJokes in [LinkedIn](https://www.linkedin.com/feed/hashtag/sivastandupjokes/) and [Twitter](https://twitter.com/hashtag/sivastandupjokes) >
